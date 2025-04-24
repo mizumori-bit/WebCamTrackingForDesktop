@@ -1,1 +1,5 @@
 # WebCamTrackingForDesktop
+
+MediaPipeによるトラッキングを利用したOSC経由でのVRCフルボディトラッキングシステム（Python3.10環境が必要）
+VRCでのOSCデバッグ画面での検知は確認できているものの、アバターが逸れに追従しない問題が発生中。
+問題解決策模索中。。。
